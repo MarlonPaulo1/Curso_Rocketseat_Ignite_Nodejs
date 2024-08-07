@@ -1,5 +1,9 @@
 ## FinAPI - Financeira
 
+Nessa aplicação foi feita uma API, que simula a operação de um banco real, com todos so critérios e regras de negócio mencionados abaixo.
+- Foi utilizado o Nodejs/javascript como linguagem para desenvolver o Backend.
+- framework/biblioteca Express, UUID, Nodemon.
+- Foi utilizado a ferramenta/software Insominia para trabalhar com as requisições HTTP.
 
 ### Requisitos
 
@@ -11,7 +15,7 @@
 - [X] Deve ser possível atualizar dados da conta do cliente.
 - [X] Deve ser possível obter dados da conta do cliente.
 - [X] Deve ser possível deletar uma conta.
-- [] Deve ser possível retornar o balance.
+- [X] Deve ser possível retornar o balance.
 
 
 ## Regras de negócio
