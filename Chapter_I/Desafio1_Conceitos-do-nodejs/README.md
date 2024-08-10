@@ -37,7 +37,7 @@ ignite-template-conceitos-do-nodejs
 
 - [X] Não deve ser possível criar um novo usuário quando o nome de usuário já existe
 - [X] Não deve ser possível atualizar uma tarefa inexistente
-- [] Não deve ser possível marcar uma tarefa inexistente como concluída
+- [X] Não deve ser possível marcar uma tarefa inexistente como concluída
 - [] Não deve ser possível excluir uma tarefa inexistente
 
 ## 📝 Licença
