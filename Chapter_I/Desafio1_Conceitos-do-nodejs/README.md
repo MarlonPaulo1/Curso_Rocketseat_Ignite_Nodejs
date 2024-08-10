@@ -27,8 +27,8 @@ ignite-template-conceitos-do-nodejs
 ## Requisitos
 
 - [X] Deve ser capaz de criar um novo usuário
+- [X] Deve ser capaz de criar uma nova tarefa
 - [] Deve ser capaz de listar todas as tarefas do usuário
-- [] Deve ser capaz de criar uma nova tarefa
 - [] Deve ser capaz de atualizar uma tarefa
 - [] Deve ser capaz de marcar uma tarefa como concluída
 - [] Deve ser capaz de excluir uma tarefa
