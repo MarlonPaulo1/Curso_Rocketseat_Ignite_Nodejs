@@ -31,7 +31,7 @@ ignite-template-conceitos-do-nodejs
 - [X] Deve ser capaz de listar todas as tarefas do usuário
 - [X] Deve ser capaz de atualizar uma tarefa
 - [X] Deve ser capaz de marcar uma tarefa como concluída
-- [] Deve ser capaz de excluir uma tarefa
+- [X] Deve ser capaz de excluir uma tarefa
 
 ## Regras de negócio
 
