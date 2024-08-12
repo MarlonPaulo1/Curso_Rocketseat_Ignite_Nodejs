@@ -29,15 +29,15 @@ ignite-template-trabalhando-com-middlewares
 ## Requisitos
 
 - [X] Deve ser capaz de encontrar o usuário pelo nome de usuário no cabeçalho e passá-lo para request.user
-- [] Deve ser possível permitir que o usuário crie uma nova tarefa quando estiver no plano gratuito e tiver menos de dez tarefas
-- [] Deve ser capaz de permitir que o usuário crie infinitas novas tarefas quando estiver no plano Pro
+- [X] Deve ser possível permitir que o usuário crie uma nova tarefa quando estiver no plano gratuito e tiver menos de dez tarefas
+- [X] Deve ser capaz de permitir que o usuário crie infinitas novas tarefas quando estiver no plano Pro
 - [] Deve ser capaz de colocar usuário e tarefa na solicitação quando ambos existem
 - [] Deve ser capaz de encontrar o usuário pelo parâmetro de rota id e passá-lo para request.user
 
 ## Regras de negócio
 
 - [X] Não deve ser possível encontrar um usuário inexistente pelo nome de usuário no cabeçalho
-- [] Não deveria ser possível permitir que o usuário crie uma nova tarefa quando não for Pro e já tiver dez tarefas
+- [X] Não deveria ser possível permitir que o usuário crie uma nova tarefa quando não for Pro e já tiver dez tarefas
 - [] Não deveria ser possível colocar usuário e tarefa na solicitação quando o usuário não existe
 - [] Não deve ser possível colocar usuário e tarefa na solicitação quando o ID da tarefa não for uuid
 - [] Não deve ser possível colocar usuário e tarefa na solicitação quando a tarefa não existir
