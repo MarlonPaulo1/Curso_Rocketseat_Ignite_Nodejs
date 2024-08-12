@@ -35,7 +35,32 @@ function checksCreateTodosUserAvailability(request, response, next) {
 }
 
 function checksTodoExists(request, response, next) {
-  // Complete aqui
+  const { username } = request.headers
+  const { id } = request.params
+
+  const user = users.find(user => user.username === username)
+
+  if (!user) {
+    return response.status(404).json({ error: "User not found!" })
+  }
+
+  const idvalidate = validate(id)
+
+  if (!idvalidate) {
+    return response.status(400).json({ error: "Id user not found!" })
+  }
+
+  const todo = user.todos.find(todo => todo.id === id)
+
+  if (!todo) {
+    return response.status(404).json({ error: "Todos not found!" })
+  }
+
+  request.user = user
+  request.todo = todo
+
+  return next()
+
 }
 
 function findUserById(request, response, next) {
