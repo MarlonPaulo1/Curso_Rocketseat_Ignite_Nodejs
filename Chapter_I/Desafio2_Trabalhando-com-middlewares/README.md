@@ -32,7 +32,7 @@ ignite-template-trabalhando-com-middlewares
 - [X] Deve ser possível permitir que o usuário crie uma nova tarefa quando estiver no plano gratuito e tiver menos de dez tarefas
 - [X] Deve ser capaz de permitir que o usuário crie infinitas novas tarefas quando estiver no plano Pro
 - [X] Deve ser capaz de colocar usuário e tarefa na solicitação quando ambos existem
-- [] Deve ser capaz de encontrar o usuário pelo parâmetro de rota id e passá-lo para request.user
+- [X] Deve ser capaz de encontrar o usuário pelo parâmetro de rota id e passá-lo para request.user
 
 ## Regras de negócio
 
@@ -41,7 +41,7 @@ ignite-template-trabalhando-com-middlewares
 - [X] Não deveria ser possível colocar usuário e tarefa na solicitação quando o usuário não existe
 - [X] Não deve ser possível colocar usuário e tarefa na solicitação quando o ID da tarefa não for uuid
 - [X] Não deve ser possível colocar usuário e tarefa na solicitação quando a tarefa não existir
-- [] Não deve ser possível passar o usuário para request.user quando ele não existe
+- [X] Não deve ser possível passar o usuário para request.user quando ele não existe
 
 ## 📝 Licença
 
