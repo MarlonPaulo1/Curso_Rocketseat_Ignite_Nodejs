@@ -22,14 +22,14 @@ ignite-template-corrigindo-o-codigo
 
 - [X] Deve ser capaz de criar um novo repositório
 - [X] Deve ser capaz de listar os projetos
-- [] Deve ser capaz de atualizar o repositório
+- [X] Deve ser capaz de atualizar o repositório
 - [] Deve ser capaz de excluir o repositório
 - [] Deveria poder dar um like no repositório
 
 ## Regras de negócio
 
-- [] Não deve ser possível atualizar um repositório inexistente
-- [] Não deve ser possível atualizar manualmente os likes do repositório
+- [X] Não deve ser possível atualizar um repositório inexistente
+- [X] Não deve ser possível atualizar manualmente os likes do repositório
 - [] Não deve ser possível excluir um repositório inexistente
 - [] Não deveria ser possível dar um like em um repositório inexistente
 
