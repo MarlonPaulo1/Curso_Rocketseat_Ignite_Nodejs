@@ -20,8 +20,8 @@ ignite-template-corrigindo-o-codigo
 
 ## Requisitos
 
-- [] Deve ser capaz de criar um novo repositório
-- [] Deve ser capaz de listar os projetos
+- [X] Deve ser capaz de criar um novo repositório
+- [X] Deve ser capaz de listar os projetos
 - [] Deve ser capaz de atualizar o repositório
 - [] Deve ser capaz de excluir o repositório
 - [] Deveria poder dar um like no repositório
