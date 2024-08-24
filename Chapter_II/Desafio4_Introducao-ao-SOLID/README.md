@@ -36,8 +36,8 @@ Essa será uma aplicação de listagem e cadastro de usuários. Para que a l
 #### Testes de useCases
 - [X] Should be able to create new users
 - [X] Should not be able to create new users when email is already taken
-- [] Should be able to turn an user as admin
-- [] Should not be able to turn a non existing user as admin
+- [X] Should be able to turn an user as admin
+- [X] Should not be able to turn a non existing user as admin
 - [] Should be able to get user profile by ID
 - [] Should not be able to show profile of a non existing user
 - [] Should be able to list all users
