@@ -51,8 +51,8 @@ Essa será uma aplicação de listagem e cadastro de usuários. Para que a l
 - [X] Should not be able to create new users when email is already taken
 
 #### Rota - [PATCH] /users/:user_id/admin
-- [] Should be able to turn an user as admin
-- [] Should not be able to turn a non existing user as admin
+- [X] Should be able to turn an user as admin
+- [X] Should not be able to turn a non existing user as admin
 
 #### Rota - [GET] /users/:user_id
 - [] Should be able to get user profile by ID
