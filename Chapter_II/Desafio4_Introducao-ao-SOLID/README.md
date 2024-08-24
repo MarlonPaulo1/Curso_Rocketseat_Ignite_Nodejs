@@ -24,7 +24,7 @@ Essa será uma aplicação de listagem e cadastro de usuários. Para que a l
 ### Específicação dos testes
 
 #### Teste do model
-- [] Should be able to create an user with all props
+- [X] Should be able to create an user with all props
 
 #### Testes do repositório
 - [] Should be able to create new users
