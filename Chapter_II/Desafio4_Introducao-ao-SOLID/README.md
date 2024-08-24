@@ -27,8 +27,8 @@ Essa será uma aplicação de listagem e cadastro de usuários. Para que a l
 - [X] Should be able to create an user with all props
 
 #### Testes do repositório
-- [] Should be able to create new users
-- [] Should be able to list all users
+- [X] Should be able to create new users
+- [X] Should be able to list all users
 - [] Should be able to find user by ID
 - [] Should be able to find user by e-mail address
 - [] Should be able to turn an user as admin
