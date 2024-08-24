@@ -41,8 +41,8 @@ Essa será uma aplicação de listagem e cadastro de usuários. Para que a l
 - [X] Should be able to get user profile by ID
 - [X] Should not be able to show profile of a non existing user
 - [X] Should be able to list all users
-- [] Should not be able to a non admin user get list of all users
-- [] Should not be able to a non existing user get list of all users
+- [X] Should not be able to a non admin user get list of all users
+- [X] Should not be able to a non existing user get list of all users
 
 ### Testes das rotas
 
