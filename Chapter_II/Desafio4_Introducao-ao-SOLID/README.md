@@ -59,9 +59,9 @@ Essa será uma aplicação de listagem e cadastro de usuários. Para que a l
 - [X] Should not be able to show profile of a non existing user
 
 #### Rota - [GET] /users
-- [] Should be able to list all users
-- [] Should not be able to a non admin user get list of all users
-- [] Should not be able to a non existing user get list of all users
+- [X] Should be able to list all users
+- [X] Should not be able to a non admin user get list of all users
+- [X] Should not be able to a non existing user get list of all users
 
 ## 📝 Licença
 
