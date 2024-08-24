@@ -47,8 +47,8 @@ Essa será uma aplicação de listagem e cadastro de usuários. Para que a l
 ### Testes das rotas
 
 #### Rota - [POST] /users
-- [] Should be able to create new users
-- [] Should not be able to create new users when email is already taken
+- [X] Should be able to create new users
+- [X] Should not be able to create new users when email is already taken
 
 #### Rota - [PATCH] /users/:user_id/admin
 - [] Should be able to turn an user as admin
