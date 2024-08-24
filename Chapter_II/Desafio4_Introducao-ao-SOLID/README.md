@@ -55,8 +55,8 @@ Essa será uma aplicação de listagem e cadastro de usuários. Para que a l
 - [X] Should not be able to turn a non existing user as admin
 
 #### Rota - [GET] /users/:user_id
-- [] Should be able to get user profile by ID
-- [] Should not be able to show profile of a non existing user
+- [X] Should be able to get user profile by ID
+- [X] Should not be able to show profile of a non existing user
 
 #### Rota - [GET] /users
 - [] Should be able to list all users
